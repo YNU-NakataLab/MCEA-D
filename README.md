@@ -20,7 +20,7 @@
 ```
 @article{sonoda2022multiple,
   title={{Multiple Classifiers-Assisted Evolutionary Algorithm Based on Decomposition for High-Dimensional Multiobjective Problems}},
-  author={Takumi Sonoda, Masaya Nakata},
+  author={Sonoda, Takumi and Nakata, Masaya},
   journal={IEEE Transactions on Evolutionary Computation},
   volume={26},
   number={6},
