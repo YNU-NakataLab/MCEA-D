@@ -27,7 +27,7 @@
   pages={1581--1595},
   month={March},
   year={2023},
-  publisher={IEEE}
+  publisher={IEEE},
   doi={10.1109/TEVC.2022.3159000}
 }
 ```
